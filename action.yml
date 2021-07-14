@@ -13,3 +13,6 @@ inputs:
 runs:
   using: 'node12'
   main: 'dist/index.js'
+name: Exotel SMS
+  uses: sagarchoudhary96/exosms-actions@v1
+
